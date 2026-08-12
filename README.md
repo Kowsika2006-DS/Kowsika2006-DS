@@ -308,15 +308,15 @@ https://github.com/Kowsika2006-DS/smart-energy
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kowsika2006-DS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=Kowsika2006-DS&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Kowsika GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsika2006-DS&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kowsika2006-DS&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Kowsika Top Languages"
   />
 
 </p>
