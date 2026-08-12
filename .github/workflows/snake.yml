@@ -1,10 +1,10 @@
 name: Generate Contribution Snake
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
-
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -20,9 +20,8 @@ jobs:
           github_user_name: Kowsika2006-DS
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
+      - name: Upload Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
