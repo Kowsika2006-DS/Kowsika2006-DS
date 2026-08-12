@@ -323,17 +323,14 @@ https://github.com/Kowsika2006-DS/smart-energy
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
   <img
-    src="https://streak-stats.demolab.com?user=Kowsika2006-DS&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=Kowsika2006-DS&theme=tokyonight&hide_border=true"
+    alt="Kowsika GitHub Streak"
   />
-
 </p>
-
 ---
 
 # 📈 Contribution Activity
