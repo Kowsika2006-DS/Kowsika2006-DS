@@ -1,34 +1,34 @@
 <h1 align="center">
-  👋 Hi, I'm KOWSIKA J
+  Hi 👋, I'm KOWSIKA J
 </h1>
 
 <h3 align="center">
-  Data Engineer • Data Analyst • AI/ML Developer • Front-End Developer
+  Data Engineer • Data Analyst • AI/ML Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=2AA9F3&center=true&vCenter=true&width=800&lines=Data+Engineer;Data+Analyst;AI%2FML+Developer;Front-End+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Solutions+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Data+Engineer;Data+Analyst;AI%2FML+Enthusiast;Front-End+Developer;Full+Stack+Developer;Building+Real-World+AI+Solutions;Turning+Data+Into+Insights;Turning+Ideas+Into+Impactful+Products+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Kowsika2006-DS&label=Profile%20Views&color=2AA9F3&style=flat"
+    src="https://komarev.com/ghpvc/?username=Kowsika2006-DS&label=Profile%20Views&color=00D9FF&style=flat"
     alt="Profile Views"
   />
   &nbsp;
   <img
-    src="https://img.shields.io/github/followers/Kowsika2006-DS?label=Followers&style=flat&color=2AA9F3"
-    alt="GitHub Followers"
+    src="https://img.shields.io/github/followers/Kowsika2006-DS?label=Followers&style=flat&color=00D9FF"
+    alt="Followers"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=2AA9F3&height=2"
-    alt="divider"
+    src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2"
+    alt="Divider"
   />
 </p>
 
@@ -36,41 +36,51 @@
 
 ## 👩‍💻 About Me
 
-I'm **Kowsika J**, a passionate **Data Science student, AI/ML enthusiast and Front-End Developer** focused on transforming ideas into practical technology solutions.
+<img
+  align="right"
+  width="350"
+  src="https://github-readme-stats.vercel.app/api?username=Kowsika2006-DS&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-🎓 Pursuing **B.E. Computer Science and Engineering – Data Science** at **Annamalai University**.
+I am **Kowsika J**, a passionate technology enthusiast focused on building
+real-world solutions using **Data, Artificial Intelligence and modern web technologies**.
 
-🚀 Currently in my **Pre-Final Year** with a **CGPA of 8.9**.
+- 🎓 **B.E. Computer Science and Engineering — Data Science**
+- 🏫 **Annamalai University**
+- 📚 **Pre-Final Year Student**
+- ⭐ **CGPA: 8.9**
+- 💼 **COO at Zenvy Technologies**
+- 📊 Interested in **Data Engineering & Data Analytics**
+- 🤖 Passionate about **AI & Machine Learning**
+- 💻 Experienced in **Front-End & Full Stack Development**
+- 🧠 Interested in solving **real-world problems with technology**
+- 🚀 Passionate about transforming ideas into practical applications
+- 🌱 Always learning, experimenting and building
 
-💼 **COO at Zenvy Technologies**, contributing to technology, product development and innovation.
-
-🧠 My primary interests include **Artificial Intelligence, Machine Learning, Data Analytics, Data Engineering and Web Development**.
-
-💡 I enjoy solving **real-world problems through technology**, experimenting with new ideas and continuously improving my development skills.
-
-> **Learn → Build → Experiment → Improve → Create 🚀**
+<br clear="right"/>
 
 ---
 
-## 🎯 Current Focus
+## 💫 My Vision
 
-<p align="center">
+> **"Use technology not just to build applications, but to solve meaningful real-world problems."**
 
-🤖 <b>Artificial Intelligence</b>
-&nbsp; • &nbsp;
+My goal is to combine:
 
-🧠 <b>Machine Learning</b>
-&nbsp; • &nbsp;
-
-📊 <b>Data Analytics</b>
-&nbsp; • &nbsp;
-
-⚙️ <b>Data Engineering</b>
-&nbsp; • &nbsp;
-
-🌐 <b>Full Stack Development</b>
-
-</p>
+```text
+Data
+  ↓
+Engineering
+  ↓
+Analytics
+  ↓
+Machine Learning
+  ↓
+Artificial Intelligence
+  ↓
+Real-World Solutions
+```
 
 ---
 
@@ -79,7 +89,7 @@ I'm **Kowsika J**, a passionate **Data Science student, AI/ML enthusiast and Fro
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" alt="Programming Languages"/>
 </p>
 
 ---
@@ -87,7 +97,7 @@ I'm **Kowsika J**, a passionate **Data Science student, AI/ML enthusiast and Fro
 ## 🌐 Front-End Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Technologies"/>
 </p>
 
 ---
@@ -95,7 +105,7 @@ I'm **Kowsika J**, a passionate **Data Science student, AI/ML enthusiast and Fro
 ## ⚙️ Back-End Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Technologies"/>
 </p>
 
 ---
@@ -103,7 +113,7 @@ I'm **Kowsika J**, a passionate **Data Science student, AI/ML enthusiast and Fro
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 </p>
 
 ---
@@ -112,42 +122,24 @@ I'm **Kowsika J**, a passionate **Data Science student, AI/ML enthusiast and Fro
 
 <p align="left">
 
-<img
-src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-alt="NumPy"
-/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<img
-src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-alt="Pandas"
-/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-<img
-src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-alt="Scikit-learn"
-/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
 
-<img
-src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-alt="PyTorch"
-/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 
-<img
-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-alt="TensorFlow"
-/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 </p>
 
 ---
 
-## 🔧 Tools & Development
+## 🔧 Tools & Platforms
 
 <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"
-    alt="Development Tools"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools"/>
 </p>
 
 ---
@@ -156,127 +148,129 @@ alt="TensorFlow"
 
 ## 🌦️ Weather Prediction App
 
-A responsive weather application that retrieves real-time weather information using a weather API and presents the data through a clean and user-friendly interface.
+A responsive web-based weather application that retrieves weather information through a weather API and presents it through a simple and user-friendly interface.
 
-### ✨ Highlights
-
-- 🌤️ Real-time weather information
-- 📍 Location-based weather data
-- 🌡️ Weather details and conditions
-- 📱 Responsive user interface
-- ⚡ API-based data retrieval
-
-### 🛠️ Technologies
+### Technologies
 
 `HTML` `CSS` `JavaScript` `Weather API`
 
-### 🔗 Project
+### 🔗 Links
 
-**GitHub:**  
-https://github.com/Kowsika2006-DS/weather-
+<p>
+  <a href="https://github.com/Kowsika2006-DS/weather-">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 💻 CPU Scheduling Simulator
+## 💻 CPU Scheduling
 
-An interactive web-based CPU Scheduling simulator designed to demonstrate and visualize different CPU scheduling algorithms.
+An interactive web application developed to demonstrate and visualize CPU scheduling algorithms.
 
-### ✨ Highlights
+The project helps users understand how different scheduling algorithms work through an interactive interface.
 
-- ⚙️ Multiple scheduling algorithms
-- 📊 Scheduling visualization
-- ⏱️ Waiting time calculation
-- 🔄 Turnaround time calculation
-- 📈 Interactive interface
-- 🎓 Useful for understanding Operating System concepts
-
-### 🛠️ Technologies
+### Technologies
 
 `HTML` `CSS` `JavaScript`
 
-### 🔗 Project
+### Scheduling Algorithms
 
-**GitHub:**  
-https://github.com/Kowsika2006-DS/cpu-scheduling
+- FCFS
+- SJF
+- SRTF
+- Priority Scheduling
+- Round Robin
+- Other CPU Scheduling Concepts
 
-**Live Demo:**  
-https://kowsika2006-ds.github.io/cpu-scheduling/
+### 🔗 Links
+
+<p>
+  <a href="https://github.com/Kowsika2006-DS/cpu-scheduling">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://kowsika2006-ds.github.io/cpu-scheduling/">
+    <img src="https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Smart Energy Consumption
 
-A React-based application designed to provide an interactive interface for monitoring and understanding smart energy consumption.
+A React-based project focused on presenting smart energy consumption concepts through a modern and responsive interface.
 
-### ✨ Highlights
-
-- ⚡ Energy consumption interface
-- 📊 Data-focused presentation
-- 🎨 Modern responsive UI
-- ⚛️ React-based architecture
-- 💡 Smart energy concept
-
-### 🛠️ Technologies
+### Technologies
 
 `React.js` `CSS`
 
-### 🔗 Project
+### 🔗 Links
 
-**GitHub:**  
-https://github.com/Kowsika2006-DS/smart-energy
-
----
-
-# 💼 Experience
-
-### 🏢 Artifai Tech
-
-**Full Stack Intern**
-
-📅 June 30, 2025 – July 7, 2025
-
-- Learned the fundamentals of Full Stack Development.
-- Worked on practical development concepts.
-- Contributed to building a working prototype.
-- Gained exposure to real-world software development workflows.
+<p>
+  <a href="https://github.com/Kowsika2006-DS/smart-energy">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### 🏢 Codec Technologies
+# 💼 Professional Experience
 
-**Web Developer Intern**
+## 🏢 Artifai Tech
 
-📅 December 15, 2025 – January 15, 2026
+### Full Stack Intern
 
-- Worked on web development projects.
-- Built a functional website.
-- Applied front-end development concepts.
-- Improved practical experience in creating responsive web interfaces.
+📅 **30 June 2025 – 7 July 2025**
+
+During this internship:
+
+- Learned the fundamentals of Full Stack Development
+- Understood front-end and back-end development workflows
+- Worked on a practical working prototype
+- Gained exposure to real-world software development practices
 
 ---
 
-### 🏢 Beetalogic Software Solutions
+## 🏢 Codec Technologies
 
-**Full Stack Developer Intern**
+### Web Developer Intern
 
-📅 June 2, 2026 – July 2, 2026
+📅 **15 December 2025 – 15 January 2026**
 
-- Worked on a professional animated website.
-- Developed responsive web interfaces.
-- Applied Full Stack development concepts.
-- Improved practical experience in modern web development.
+During this internship:
+
+- Worked on website development
+- Built a professional website
+- Applied modern web development concepts
+- Improved practical front-end development skills
+- Gained experience working on a development project
+
+---
+
+## 🏢 Beetalogic Software Solutions
+
+### Full Stack Developer Intern
+
+📅 **2 June 2026 – 2 July 2026**
+
+During this internship:
+
+- Developed a professional animated website
+- Worked on front-end implementation
+- Worked with full-stack development concepts
+- Focused on modern UI implementation
+- Improved practical software development skills
 
 ---
 
 # 🎓 Education
 
-### Annamalai University
+## Annamalai University
 
-**B.E. Computer Science and Engineering – Data Science**
+### B.E. Computer Science and Engineering — Data Science
 
-📍 Chidambaram, Tamil Nadu
-
-🎓 Pre-Final Year
+📚 **Pre-Final Year**
 
 ⭐ **CGPA: 8.9**
 
@@ -284,22 +278,35 @@ https://github.com/Kowsika2006-DS/smart-energy
 
 # 📜 Certifications
 
-- 🐍 **Python Masterclass** — Udemy
-- ⌨️ **Typing Certificate** — TypingTest.com
-- 🎯 **Typing Accuracy: 97%**
+### 🐍 Python Masterclass
+
+**Udemy**
+
+Focused on Python programming and practical programming concepts.
+
+---
+
+### ⌨️ Typing Certificate
+
+**TypingTest.com**
+
+🎯 **Accuracy: 97%**
 
 ---
 
 # 👑 Leadership
 
-### Class Representative
+## Class Representative
 
-📅 1st Year – Present
+📅 **1st Year – Present**
 
-- Representing student concerns and requirements.
-- Coordinating communication between students and faculty.
-- Supporting academic and class activities.
-- Taking responsibility for class coordination.
+Responsibilities include:
+
+- Representing students
+- Coordinating with faculty members
+- Communicating important information
+- Supporting class activities
+- Helping coordinate academic activities
 
 ---
 
@@ -307,53 +314,76 @@ https://github.com/Kowsika2006-DS/smart-energy
 
 <p align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Kowsika2006-DS&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Kowsika GitHub Stats"
-  />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Kowsika2006-DS&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Kowsika GitHub Stats"
+/>
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kowsika2006-DS&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Kowsika Top Languages"
-  />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kowsika2006-DS&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Kowsika Top Languages"
+/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Kowsika2006-DS&theme=tokyonight&hide_border=true"
-    alt="Kowsika GitHub Streak"
-  />
+
+<img
+  src="https://streak-stats.demolab.com/?user=Kowsika2006-DS&theme=tokyonight&hide_border=true"
+  alt="Kowsika GitHub Streak"
+/>
+
 </p>
+
 ---
 
 # 📈 Contribution Activity
 
 <p align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kowsika2006-DS&theme=tokyo-night&hide_border=true&area=true&custom_title=Kowsika%27s%20Contribution%20Graph"
-    alt="Contribution Graph"
-  />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kowsika2006-DS&theme=tokyo-night&hide_border=true&area=true&custom_title=Kowsika%27s%20Contribution%20Graph"
+  alt="Kowsika Contribution Graph"
+/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Kowsika2006-DS/Kowsika2006-DS/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+
+<img
+  src="https://raw.githubusercontent.com/Kowsika2006-DS/Kowsika2006-DS/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<p align="center">
+
+🤖 <b>Artificial Intelligence</b>
+&nbsp; • &nbsp;
+🧠 <b>Machine Learning</b>
+&nbsp; • &nbsp;
+📊 <b>Data Analytics</b>
+&nbsp; • &nbsp;
+⚙️ <b>Data Engineering</b>
+&nbsp; • &nbsp;
+🌐 <b>Full Stack Development</b>
+
 </p>
 
 ---
@@ -362,30 +392,15 @@ https://github.com/Kowsika2006-DS/smart-energy
 
 <p align="center">
 
-<img
-src="https://img.shields.io/badge/Artificial_Intelligence-2AA9F3?style=for-the-badge&logo=googlebrain&logoColor=white"
-alt="Artificial Intelligence"
-/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00D9FF?style=for-the-badge&logo=ai&logoColor=white" alt="AI"/>
 
-<img
-src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white"
-alt="Machine Learning"
-/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
 
-<img
-src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-alt="Deep Learning"
-/>
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
 
-<img
-src="https://img.shields.io/badge/Data_Engineering-2AA9F3?style=for-the-badge&logo=apache-spark&logoColor=white"
-alt="Data Engineering"
-/>
+<img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Engineering"/>
 
-<img
-src="https://img.shields.io/badge/AI_Automation-7B61FF?style=for-the-badge&logo=robotframework&logoColor=white"
-alt="AI Automation"
-/>
+<img src="https://img.shields.io/badge/Data_Analytics-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analytics"/>
 
 </p>
 
@@ -397,25 +412,81 @@ alt="AI Automation"
 
 💡 <b>Ideate</b>
 &nbsp; → &nbsp;
-
-🔍 <b>Analyze</b>
-&nbsp; → &nbsp;
-
 🎨 <b>Design</b>
 &nbsp; → &nbsp;
-
 💻 <b>Build</b>
 &nbsp; → &nbsp;
-
 🧪 <b>Test</b>
 &nbsp; → &nbsp;
-
 🚀 <b>Deploy</b>
 &nbsp; → &nbsp;
-
+📊 <b>Analyze</b>
+&nbsp; → &nbsp;
 🔄 <b>Improve</b>
 
 </p>
+
+---
+
+# 🧠 How I Approach Problems
+
+```text
+          REAL-WORLD PROBLEM
+                  │
+                  ▼
+             Understand
+                  │
+                  ▼
+              Analyze
+                  │
+                  ▼
+              Research
+                  │
+                  ▼
+              Design
+                  │
+                  ▼
+               Build
+                  │
+                  ▼
+                Test
+                  │
+                  ▼
+               Deploy
+                  │
+                  ▼
+               Improve
+```
+
+---
+
+# 💡 What I Believe In
+
+<table align="center">
+
+<tr>
+<td align="center">
+<h3>💡</h3>
+<b>Learn Continuously</b>
+</td>
+
+<td align="center">
+<h3>🚀</h3>
+<b>Build Real Things</b>
+</td>
+
+<td align="center">
+<h3>🧠</h3>
+<b>Think Differently</b>
+</td>
+
+<td align="center">
+<h3>🤝</h3>
+<b>Collaborate</b>
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -429,32 +500,38 @@ alt="AI Automation"
 
 <br><br>
 
-💡 Think  
-→ 🧠 Learn  
-→ 💻 Build  
-→ 🧪 Experiment  
-→ 🚀 Deploy  
-→ 🔄 Improve
+Learn → Build → Experiment → Fail → Improve → Deploy → Repeat 🚀
 
 </p>
 
 ---
 
-# 🌟 What I Love Building
+# 📈 My Growth Path
 
-<p align="center">
-
-🤖 AI-powered applications  
-<br>
-📊 Data-driven solutions  
-<br>
-⚙️ Intelligent automation systems  
-<br>
-🌐 Modern web applications  
-<br>
-💡 Real-world problem solving
-
-</p>
+```text
+Programming
+     │
+     ▼
+Web Development
+     │
+     ▼
+Full Stack Development
+     │
+     ▼
+Data Science
+     │
+     ▼
+Data Analytics
+     │
+     ▼
+Machine Learning
+     │
+     ▼
+Artificial Intelligence
+     │
+     ▼
+Real-World AI Solutions
+```
 
 ---
 
@@ -487,17 +564,39 @@ alt="AI Automation"
 
 ---
 
+# 📍 Location
+
+<p align="center">
+
+📍 <b>Mettur, Salem, Tamil Nadu, India</b>
+
+</p>
+
+---
+
+# ✨ Thanks for Visiting
+
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=2AA9F3&height=120&section=footer"
-alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"
+  alt="Footer Wave"
 />
 
 </p>
 
 <p align="center">
 
-### ✨ Building today. Learning every day. Creating for tomorrow. 🚀
+<b>✨ Thanks for visiting my GitHub profile! ✨</b>
 
+<br><br>
+
+<b>
+Let's connect, collaborate and build something meaningful together 🚀
+</b>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kowsika2006-DS&label=Thanks%20for%20visiting&color=00D9FF&style=flat-square" alt="Profile Views"/>
 </p>
