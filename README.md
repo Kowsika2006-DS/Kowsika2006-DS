@@ -327,7 +327,7 @@ https://github.com/Kowsika2006-DS/smart-energy
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Kowsika2006-DS&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Kowsika2006-DS&theme=tokyonight&hide_border=true&utm_source=chatgpt.com"
     alt="Kowsika GitHub Streak"
   />
 </p>
