@@ -359,13 +359,11 @@ Responsibilities include:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Kowsika2006-DS/Kowsika2006-DS/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/Kowsika2006-DS/Kowsika2006-DS/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
