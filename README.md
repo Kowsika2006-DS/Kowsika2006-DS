@@ -36,13 +36,6 @@
 
 ## 👩‍💻 About Me
 
-<img
-  align="right"
-  width="350"
-  src="https://github-readme-stats.vercel.app/api?username=Kowsika2006-DS&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-
 I am **Kowsika J**, a passionate technology enthusiast focused on building
 real-world solutions using **Data, Artificial Intelligence and modern web technologies**.
 
@@ -354,19 +347,6 @@ Responsibilities include:
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Kowsika2006-DS/Kowsika2006-DS/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
-
----
 
 # 🎯 Current Focus
 
